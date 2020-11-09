@@ -1,0 +1,5 @@
+<view class="page-body">
+  <view class="page-section page-section-gap">
+    <web-view src="https://www.ynxnft.net/app/index.php?i=2&c=entry&t=1603963027&do=index&m=fy_lessonv2&footFlag=1"></web-view>
+  </view>
+</view>
